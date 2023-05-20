@@ -7,7 +7,7 @@
 Meu primeiro projeto web, feito para simular uma Pokedéx.
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido durante evento Live do Projeto-3 do Dev em Dobro com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante o evento Live do Projeto-3 do DEV EM DOBRO_ , com as seguintes tecnologias:
 
 - HTML
 - CSS
